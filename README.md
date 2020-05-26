@@ -7,4 +7,4 @@ Kaggle Link: https://www.kaggle.com/henriqueyamahata/bank-marketing
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to `predict if the client will subscribe a term deposit`.
 
-Below I use `Logistic Regression` and `Naive Bayes` to train the model and use some validation tools to see which model performs better.
+In the ipynb, I use `Logistic Regression` and `Naive Bayes` to train the model and use some validation tools to see which model performs better.
